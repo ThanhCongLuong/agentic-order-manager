@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+langgraph
+langchain-groq
+langchain-core>=0.3.0
+langchain>=0.3.0
