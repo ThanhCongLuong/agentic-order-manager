@@ -1,7 +1,7 @@
 # AI Order Management Agent (LangGraph)
 > An intelligent system that automates order management and cancellation processes using AI Agents and human-in-the-loop workflows.
 > Live demo [_here_](https://langgraph-nu.vercel.app/).
-
+![Banking Bot Demo](./img/LangGraph_Demo.gif)
 ## Table of Contents
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
